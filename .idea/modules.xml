@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Monkey Pox.iml" filepath="$PROJECT_DIR$/.idea/Monkey Pox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ML_with_TensorFlowLite.iml" filepath="$PROJECT_DIR$/.idea/modules/ML_with_TensorFlowLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/ML_with_TensorFlowLite.app.unitTest.iml" />
     </modules>
   </component>
 </project>
