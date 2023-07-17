@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-# Image-Classification-App-with-Custom-TensorFlow-Model
-Learn how to code your own neural network in Python, then deploy it in an Image Classification App using TensorFlow Lite.
-=======
-# disease-classification
-Disease Classification app
->>>>>>> 8009e5053351130bc7a8c4ea01a8f1629e82d3cf
+# Monkeypox Disease Detection
+Healthcare professionals worldwide are increasingly concerned about the current monkeypox outbreak, emphasizing the importance of early diagnosis to mitigate its rapid progression. In response to that, In this project, I developed an Android app which will detect monkeypox diseases. The image dataset which was used in this project was developed by the Department of Computer Science and Engineering, Islamic University, Kushtia-7003, Bangladesh. 
+The dataset has four classes :-
+
