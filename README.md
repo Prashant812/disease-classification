@@ -3,7 +3,7 @@ Healthcare professionals worldwide are increasingly concerned about the current 
 </br>
 
 ## Workflow
-1. Data exploration
+1. Data Exploration
 2. Data Pre-processing
 3. Model Training
 4. Model saved to model.tflite
