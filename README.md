@@ -24,7 +24,7 @@ Each class has 107 items with dimension of 224*224. For model training Data Augm
 ## Model
 CNN Model was used with model architecture :-
 <p align="center">
-  <img width="700" src="https://github.com/Prashant812/Siya/assets/93676625/b79676e6-c32e-49ab-96d6-d49c790139db" >
+  <img width="500" height="400" src="https://github.com/Prashant812/Siya/assets/93676625/b79676e6-c32e-49ab-96d6-d49c790139db" >
 </p>
 
 ### Accuracy
@@ -44,10 +44,9 @@ An user can install this app and click those images with skin diseases to be cla
   <img width="300" src="https://github.com/Prashant812/Siya/assets/93676625/031bbed1-e14a-443d-a2af-7f8fcd8e0744" >
   <img width="300" src="https://github.com/Prashant812/Siya/assets/93676625/42ec8013-fed1-4713-9cb9-bdf50c29e650" >
   <img width="300" src="https://github.com/Prashant812/Siya/assets/93676625/0294c0f3-6d5c-44e5-a72b-603fe14e6bae" >
-</p>
-<p align="center">
   <img width="300" src="https://github.com/Prashant812/Siya/assets/93676625/00a125ea-e053-4421-afd8-786c6bca4687" >
 </p>
+
 
 
 
